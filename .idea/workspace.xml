@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24d39e7e-3896-48ca-873b-5239f840aca3" name="Default Changelist" comment="asdf" />
+    <list id="47aba045-7e52-4372-87d8-c10cca8e953b" name="Revert &quot;asdf&quot;" comment="Revert &quot;asdf&quot;&#10;&#10;This reverts commit d7742807">
+      <change afterPath="$PROJECT_DIR$/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/categories/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/404.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layouts/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layouts/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layouts/notes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/layouts/single.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/navigators/navbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/navigators/sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/plyr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/accomplishments.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/achievements.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/education.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/experiences.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/recent-posts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sections/skills.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/404_huf404c6818e5475c7870a4722b4efea20_110323_1500x0_resize_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/author/john_hu7f9991f5b5d471ecdfc6cff3db1a9fe6_6397_148x148_fit_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/default-hero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hugo-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/achievements/league_hu48cc22606bc2e4c048328c569d24f3e9_492369_0x1500_resize_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/achievements/league_hu48cc22606bc2e4c048328c569d24f3e9_492369_0x300_resize_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/achievements/pittsburgh_hua14ef57eb5e9ee153a0d369e50bb95df_19947_0x1500_resize_q75_box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/achievements/pittsburgh_hua14ef57eb5e9ee153a0d369e50bb95df_19947_0x300_resize_q75_box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/achievements/rascal_hu81607df412d401e99b1295a7403b90e6_199317_0x1500_resize_q75_box.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/achievements/rascal_hu81607df412d401e99b1295a7403b90e6_199317_0x300_resize_q75_box.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/projects/resume_huf5975945d822442ab74dceeec3adefe6_2011_24x24_fit_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/projects/spotify_hu9d479a9248019e7cff19207a4690a4e4_16892_24x24_fit_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/appium-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/cucumber.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/jenkins-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/jira.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/karate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/linux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/microsoft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/postman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/selenium-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/spring_boot-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sections/skills/sql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site/background3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site/background3_hu3d03a01dcc18bc5be0e67db3d8d209a6_253214_1200x0_resize_q75_box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site/background3_hu3d03a01dcc18bc5be0e67db3d8d209a6_253214_1500x0_resize_q75_box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site/background3_hu3d03a01dcc18bc5be0e67db3d8d209a6_253214_500x0_resize_q75_box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site/background3_hu3d03a01dcc18bc5be0e67db3d8d209a6_253214_800x0_resize_q75_box.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site/favicon_hue298048fb3b93afb5b9c93999f030d02_2048_42x0_resize_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site/inverted-logo_hue298048fb3b93afb5b9c93999f030d02_2048_42x0_resize_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site/main-logo_hue298048fb3b93afb5b9c93999f030d02_2048_42x0_resize_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/theme-logo_hu8376fd15465fef26ffe66b6bcf0ca686_13669_32x0_resize_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/github-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/itype.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.filterizr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plyr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/single.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tags/page/1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/sample.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="ProjectId" id="1saFHRcs3RVnJm62KyvhD6MKXHW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d39e7e-3896-48ca-873b-5239f840aca3" name="Default Changelist" comment="" />
+      <created>1621102709927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621102709927</updated>
+      <workItem from="1621102712940" duration="724000" />
+    </task>
+    <task id="LOCAL-00001" summary="asdf">
+      <created>1621102986116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621102986116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="source" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asdf" />
+    <MESSAGE value="Revert &quot;asdf&quot;&#10;&#10;This reverts commit d7742807" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;asdf&quot;&#10;&#10;This reverts commit d7742807" />
+  </component>
+</project>
